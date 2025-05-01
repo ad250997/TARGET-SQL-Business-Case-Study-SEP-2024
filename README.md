@@ -83,6 +83,7 @@
       <li>SQL (BigQuery)</li>
       <li>Data Aggregation</li>
       <li>Exploratory Analysis</li>
+      <li>Dataset can be accessed from here: https://drive.google.com/drive/folders/1FtD_patBlohjtsz1JkUvRNicp4v9j6jj?usp=drive_link</li>
     </ul>
 </body>
 </html>
